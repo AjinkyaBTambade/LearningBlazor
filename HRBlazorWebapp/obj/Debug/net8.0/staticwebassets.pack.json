@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Github Repo\\LearningBlazor\\HRBlazorWebapp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HRBlazorWebapp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HRBlazorWebapp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Github Repo\\LearningBlazor\\HRBlazorWebapp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Github Repo\\LearningBlazor\\HRBlazorWebapp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Github Repo\\LearningBlazor\\HRBlazorWebapp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Desktop\\Github Repo\\LearningBlazor\\HRBlazorWebapp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.HRBlazorWebapp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.HRBlazorWebapp.props",
+      "PackagePath": "build\\HRBlazorWebapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.HRBlazorWebapp.props",
+      "PackagePath": "buildMultiTargeting\\HRBlazorWebapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.HRBlazorWebapp.props",
+      "PackagePath": "buildTransitive\\HRBlazorWebapp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,140 @@
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\HRBlazorWebapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\HRBlazorWebapp.AssemblyInfoInputs.cache
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\HRBlazorWebapp.AssemblyInfo.cs
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\HRBlazorWebapp.csproj.CoreCompileInputs.cache
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\HRBlazorWebapp.MvcApplicationPartsAssemblyInfo.cache
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\HRBlazorWebapp.sourcelink.json
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\appsettings.Development.json
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\appsettings.json
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\HRBlazorWebapp.staticwebassets.runtime.json
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\HRBlazorWebapp.exe
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\HRBlazorWebapp.deps.json
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\HRBlazorWebapp.runtimeconfig.json
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\HRBlazorWebapp.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\HRBlazorWebapp.pdb
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\Azure.Core.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\Azure.Identity.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\HRBlazorWebapp.csproj.AssemblyReference.cache
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\staticwebassets.build.json
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\staticwebassets.development.json
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\staticwebassets\msbuild.HRBlazorWebapp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\staticwebassets\msbuild.build.HRBlazorWebapp.props
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HRBlazorWebapp.props
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HRBlazorWebapp.props
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\scopedcss\bundle\HRBlazorWebapp.styles.css
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\scopedcss\projectbundle\HRBlazorWebapp.bundle.scp.css
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\HRBlazor.0C94EF43.Up2Date
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\HRBlazorWebapp.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\refint\HRBlazorWebapp.dll
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\HRBlazorWebapp.pdb
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\HRBlazorWebapp.genruntimeconfig.cache
+D:\Ravi\TAP\TAP\blazor\Solutions\TFLECommerce_May2024\HRBlazorWebapp\obj\Debug\net8.0\ref\HRBlazorWebapp.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\appsettings.json
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\HRBlazorWebapp.staticwebassets.runtime.json
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\HRBlazorWebapp.exe
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\HRBlazorWebapp.deps.json
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\HRBlazorWebapp.runtimeconfig.json
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\HRBlazorWebapp.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\HRBlazorWebapp.pdb
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\HRBlazorWebapp.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\HRBlazorWebapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\HRBlazorWebapp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\HRBlazorWebapp.AssemblyInfo.cs
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\HRBlazorWebapp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\HRBlazorWebapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\HRBlazorWebapp.sourcelink.json
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\staticwebassets\msbuild.HRBlazorWebapp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\staticwebassets\msbuild.build.HRBlazorWebapp.props
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HRBlazorWebapp.props
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HRBlazorWebapp.props
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\scopedcss\bundle\HRBlazorWebapp.styles.css
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\scopedcss\projectbundle\HRBlazorWebapp.bundle.scp.css
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\HRBlazor.0C94EF43.Up2Date
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\HRBlazorWebapp.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\refint\HRBlazorWebapp.dll
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\HRBlazorWebapp.pdb
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\HRBlazorWebapp.genruntimeconfig.cache
+C:\Users\admin\Desktop\Github Repo\LearningBlazor\HRBlazorWebapp\obj\Debug\net8.0\ref\HRBlazorWebapp.dll
