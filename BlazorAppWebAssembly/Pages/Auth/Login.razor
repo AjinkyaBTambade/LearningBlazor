@@ -45,18 +45,37 @@
         }
 </style>
 
-<div>
-
-    <form action="#" method="post">
+<div class="container">
+    <form @onsubmit="HandleLogin">
         <label for="username">Username:</label>
-        <input type="text" id="username" name="username" required>
+        <input type="text" id="username" @bind="username" required>
         <label for="password">Password:</label>
-        <input type="password" id="password" name="password" required>
+        <input type="password" id="password" @bind="password" required>
         <input type="submit" value="Login">
     </form>
 
+    @if (!string.IsNullOrEmpty(errorMessage))
+    {
+        <p style="color: red;">@errorMessage</p>
+    }
 </div>
 
 @code {
+    private string username;
+    private string password;
+    private string errorMessage;
 
+    private void HandleLogin()
+    {
+        
+        if (username == "admin" && password == "password")
+        {
+           
+            Console.WriteLine("Login successful");
+        }
+        else
+        {
+            errorMessage = "Invalid username or password";
+        }
+    }
 }

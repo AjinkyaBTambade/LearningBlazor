@@ -42,8 +42,7 @@
               "RelativeToolTip": "BlazorAppWebAssembly\\Pages\\Customers.razor",
               "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T19:37:55.146Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T19:37:55.146Z"
             },
             {
               "$type": "Document",
@@ -53,7 +52,7 @@
               "RelativeDocumentMoniker": "HRBlazorWebapp\\Repositories\\EmployeeRepository.cs",
               "ToolTip": "C:\\Users\\admin\\Desktop\\Github Repo\\LearningBlazor\\HRBlazorWebapp\\Repositories\\EmployeeRepository.cs",
               "RelativeToolTip": "HRBlazorWebapp\\Repositories\\EmployeeRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA+wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T19:37:00.476Z",
               "EditorCaption": ""
@@ -68,8 +67,7 @@
               "RelativeToolTip": "BlazorAppWebAssembly\\Services\\CustomerService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T19:35:20.31Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T19:35:20.31Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "HRBlazorWebapp\\DbContexts\\HRContext.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T19:32:02.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T19:32:02.781Z"
             }
           ]
         }

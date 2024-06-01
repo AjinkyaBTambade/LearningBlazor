@@ -10,9 +10,9 @@ app.UseCors(options => options.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin(
 // Define routes and handlers for CRUD operations
 
 app.MapGet("/api/customers", () => {
-    List<Customer> customers = new List<Customer> { new Customer { Id=12, Name="Raj", Address="Pune"},
-                                                    new Customer { Id=12, Name="Veeru", Address="Mumbai"},
-                                                    new Customer { Id=12, Name="Samay", Address="Delhi"}
+    List<Customer> customers = new List<Customer> { new Customer { Id=1, Name="Raj", Address="Pune"},
+                                                    new Customer { Id=2, Name="Veeru", Address="Mumbai"},
+                                                    new Customer { Id=3, Name="Samay", Address="Delhi"}
     };
     return customers;
 });
